@@ -43,13 +43,13 @@ const msgtxt2 =
   '<p class="image"><img src="img/whitebear.jpg" width="61" height="61"></p><p class="text">WhiteBear Attack!</p>';
 
 const msgtext3 =
-  '<p class="image"><img src="img/penguins.jpg" width="61" height="61"></p><p class="text">Penguins win!</p>';
+  '<p class="image"><img src="img/penguins.jpg" width="61" height="61"></p><p class="text animate__animated animate__lightSpeedInRight">Penguins win!</p>';
 
 const msgtext4 =
-  '<p class="image"><img src="img/whitebear.jpg" width="61" height="61"></p><p class="text">WhiteBear win!</p>';
+  '<p class="image"><img src="img/whitebear.jpg" width="61" height="61"></p><p class="text animate__animated animate__lightSpeedInLeft">WhiteBear win!</p>';
 
-const msgtext5 = 
-  `<p class="image"><img src="img/penguins.jpg" width=61px height=61px><img src="img/whitebear.jpg" width=61px height=61px></p><p class="text animate_bounceIn">Draw!!</p>`;
+  const msgtext5 = 
+  `<p class="image"><img src="img/penguins.jpg" width=61px height=61px><img src="img/whitebear.jpg" width=61px height=61px></p><p class="text animate__bounceIn">Draw!!</p>`;
 
 
 let gameSound = [
