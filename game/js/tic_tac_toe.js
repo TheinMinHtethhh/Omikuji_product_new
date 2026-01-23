@@ -48,8 +48,8 @@ const msgtext3 =
 const msgtext4 =
   '<p class="image"><img src="img/whitebear.jpg" width="61" height="61"></p><p class="text">WhiteBear win!</p>';
 
-const msgtext5 =
-  '<p class="text">Draw!</p>';
+const msgtext5 = 
+  `<p class="image"><img src="img/penguins.jpg" width=61px height=61px><img src="img/whitebear.jpg" width=61px height=61px></p><p class="text animate_bounceIn">Draw!!</p>`;
 
 
 let gameSound = [
